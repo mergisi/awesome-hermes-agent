@@ -77,6 +77,7 @@ Recipes land as we ship them. PRs welcome.
 
 Community Hermes plugins that extend the base runtime. (We track these but don't host them — links go to the maintainers' repos.)
 
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) — Native Hermes Agent plugin for X/Twitter search, account reads, tweet posting, replies, DMs, trends, monitors, and action-gated X automation through Xquik.
 - _Add your plugin here via PR._
 
 ## 🧩 MCP Servers
