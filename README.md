@@ -39,6 +39,7 @@ cp skills/<skill-name>/SKILL.md ~/.hermes/skills/<skill-name>/SKILL.md
 hermes
 > /<skill-name>
 ```
+| [`sequenzy-email-marketing`](./skills/sequenzy-email-marketing) | Operates Sequenzy subscriber, segment, campaign, sequence, template, transactional email, and stats workflows. | `closer` or `echo` personality |
 
 ## 🎭 Personalities
 
