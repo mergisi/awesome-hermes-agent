@@ -83,7 +83,8 @@ Community Hermes plugins that extend the base runtime. (We track these but don't
 
 Hermes supports the [Model Context Protocol](https://modelcontextprotocol.io). MCP servers worth knowing:
 
-- _Coming soon — curated list._
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity and reputation before x402 micropayments. Free tools: `score_agent(wallet)` and `preflight_check(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+- _More coming soon — curated list._
 
 ## 📚 Migration Guides
 
