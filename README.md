@@ -83,7 +83,7 @@ Community Hermes plugins that extend the base runtime. (We track these but don't
 
 Hermes supports the [Model Context Protocol](https://modelcontextprotocol.io). MCP servers worth knowing:
 
-- _Coming soon — curated list._
+- [Aident Loadout](https://aident.ai) — Remote MCP server that connects Hermes and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one setup (OAuth in the browser; credentials stay in Aident Vault). Endpoint: `https://loadout.aident.ai/mcp`. Skill/repo: [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) (MIT).
 
 ## 📚 Migration Guides
 
