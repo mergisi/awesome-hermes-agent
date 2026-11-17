@@ -83,7 +83,7 @@ Community Hermes plugins that extend the base runtime. (We track these but don't
 
 Hermes supports the [Model Context Protocol](https://modelcontextprotocol.io). MCP servers worth knowing:
 
-- _Coming soon — curated list._
+* [Hermes Connection Kit](https://github.com/martindell/hermes-connection-kit) — Connects ChatGPT Work to a self-hosted Hermes Agent for task submission and completion notifications in the same conversation. MIT-licensed preview; requires Linux and access to OpenAI tunnel/MCP features and Work webhooks. Includes a demo and setup guide.
 
 ## 📚 Migration Guides
 
